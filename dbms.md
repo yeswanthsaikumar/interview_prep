@@ -14,3 +14,8 @@
 ## SQL QUERYIES 
 - [duke course pdf -1 DML , DQL , CONSTRIANTS , ](https://courses.cs.duke.edu/fall14/compsci316/lectures/07-sql.pdf)
 - [duke course pdf -2 Triggers , Views, Indexes](https://courses.cs.duke.edu/fall14/compsci316/lectures/08-sql.pdf)
+
+
+## ADVANCED TOPICS 
+- [Dirty read problem](https://www.geeksforgeeks.org/dbms-dirty-read-in-sql/)
+- [conflict and view serializability](https://www.geeksforgeeks.org/difference-between-conflict-and-view-serializability/)
