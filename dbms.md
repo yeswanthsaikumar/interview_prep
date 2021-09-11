@@ -13,8 +13,8 @@
 - [Level of Abstraction in dbms](https://www.guru99.com/dbms-schemas.html)
 - [Triggers , Views & Indexes](https://courses.cs.duke.edu/fall14/compsci316/lectures/08-sql.pdf)
 
-## SQL QUERYIES 
-- [duke course pdf -1 DML , DQL , CONSTRIANTS , ](https://courses.cs.duke.edu/fall14/compsci316/lectures/07-sql.pdf)
+## SQL QUERIES 
+- [duke course pdf -1 DML , DQL , CONSTRIANTS](https://courses.cs.duke.edu/fall14/compsci316/lectures/07-sql.pdf)
 - [duke course pdf -2 Triggers , Views, Indexes](https://courses.cs.duke.edu/fall14/compsci316/lectures/08-sql.pdf)
 
 
