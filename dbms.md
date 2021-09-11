@@ -9,6 +9,8 @@
 - [Normalization in dbms](https://www.geeksforgeeks.org/normal-forms-in-dbms/) || [yt link](https://youtu.be/ABwD8IYByfk)
 - [Data Anamolies](https://www.geeksforgeeks.org/anomalies-in-relational-model/)
 - [Intergrity Constraints](https://www.javatpoint.com/dbms-integrity-constraints)
+- [1, 2 & 3 tier architechtures](https://www.guru99.com/dbms-architecture.html)
+- [Level of Abstraction in dbms](https://www.guru99.com/dbms-schemas.html)
 - [Triggers , Views & Indexes](https://courses.cs.duke.edu/fall14/compsci316/lectures/08-sql.pdf)
 
 ## SQL QUERYIES 
