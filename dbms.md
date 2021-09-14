@@ -17,6 +17,12 @@
 - [duke course pdf -1 DML , DQL , CONSTRIANTS](https://courses.cs.duke.edu/fall14/compsci316/lectures/07-sql.pdf)
 - [duke course pdf -2 Triggers , Views, Indexes](https://courses.cs.duke.edu/fall14/compsci316/lectures/08-sql.pdf)
 
+### sql practice 
+- [hackerrank excercises](https://www.hackerrank.com/domains/sql)
+
+### Documentation (official ***)
+- [sql doc](https://dev.mysql.com/doc/mysql-tutorial-excerpt/5.7/en/pattern-matching.html)
+
 
 ## ADVANCED TOPICS 
 - [Dirty read problem](https://www.geeksforgeeks.org/dbms-dirty-read-in-sql/)
